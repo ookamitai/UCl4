@@ -1,0 +1,8 @@
+.vscode/
+a.exe
+main.exe
+mini_main.exe
+build.bat
+minibuild.bat
+.clang-format
+main.ust
